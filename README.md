@@ -1683,3 +1683,6 @@ Join our growing community of developers, job seekers, and recruiters who are pa
 Built with passion and dedication by the JobHub team. We believe in connecting talent with opportunities and making the job search process more human, intelligent, and effective.
 
 Happy job hunting and hiring! 🚀# jobhub-a-job-aggregator
+
+# Update Recruiter Dasboard.jsx
+# Update job posting.jsx
